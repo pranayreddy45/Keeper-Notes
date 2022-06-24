@@ -5,8 +5,8 @@ for the frontend and NodeJS for the backend.</p>
 <li>Frontend: HTML, CSS, ReactJS</li>
 <li>Backend: NodeJS</li>
 <li>Database: MongoDB</li>
-
-Running the file in cmd:
-  cd keeper-app-backend/nodemon app.js
-open another cmd
-  cd keeper-app-frontend/npm start
+<br>
+<h4>Running the file in cmd:</h4>
+  <p>cd keeper-app-backend/nodemon app.js</p>
+<p>open another cmd</p>
+  <p>cd keeper-app-frontend/npm start</p>
